@@ -3,7 +3,7 @@ package simple_java_programs;
 import java.util.Random;
 
 public class BuildingBlocks {
-    static String[] race = new String[] {"Dwarf", "Elf", "Human", "Dragonborne", "Orc"};
+    static String[] race = new String[] {"Dwarf", "Elf", "Human", "Dragonborne"};
     static String[] profession = new String[] {"Warrior", "Druid", "Rogue", "Sorcerer", "Monk"};
     static String[] weapon = new String[] {"Sword", "Staff", "Mace", "Bow", "Fists"};
     static String[] magic = new String[] {"Blood", "Fire", "Healing", "Lightening", "Ice", "Dark",
